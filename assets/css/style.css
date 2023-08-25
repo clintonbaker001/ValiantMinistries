@@ -1,0 +1,8 @@
+@media screen and (max-width: 450px) {
+	.ts {
+		margin:15px!important;
+	.card1 {
+		display:block!important;
+	}
+	}
+}
